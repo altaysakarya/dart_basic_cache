@@ -161,4 +161,4 @@ class _MyHomePageState extends State<MyHomePage> {
 
 ### Buy Me A Coffee ☕️
 
-[![BuyMeACoffee](https://img.shields.io/badge/BuyMeACoffee-Donate-orange.svg)](https://www.buymeacoffee.com/altaysakarya)
+<a href="https://www.buymeacoffee.com/altaysakarya" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
