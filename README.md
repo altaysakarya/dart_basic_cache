@@ -66,9 +66,7 @@ This will retrieve the cached data for the specified URL. If the data is availab
 Delete cached data:
 
 ```dart
-This will retrieve the cached data for the specified URL. If the data is available and not expired, it will be returned. Otherwise, it will return null.
-
-Delete cached data:
+await cache.deleteCachedData('https://api.example.com/data');
 ```
 
 This will delete the cached data for the specified URL.
