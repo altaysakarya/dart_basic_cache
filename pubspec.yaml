@@ -1,0 +1,24 @@
+name: dart_basic_cache
+description: A simple caching package for Dart.
+version: 0.0.1
+homepage: https://github.com/username/dart_basic_cache
+repository: https://github.com/username/dart_basic_cache.git
+documentation: https://github.com/username/dart_basic_cache/blob/master/README.md
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.0.15
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+publish_to: 'https://pub.dev'
+
+flutter:
