@@ -1,9 +1,9 @@
 name: dart_basic_cache
 description: A simple caching package for Dart.
-version: 0.0.1
-homepage: https://github.com/username/dart_basic_cache
-repository: https://github.com/username/dart_basic_cache.git
-documentation: https://github.com/username/dart_basic_cache/blob/master/README.md
+version: 1.0.0
+homepage: https://github.com/altaysakarya/dart_basic_cache
+repository: https://github.com/altaysakarya/dart_basic_cache.git
+documentation: https://github.com/altaysakarya/dart_basic_cache/blob/master/README.md
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
